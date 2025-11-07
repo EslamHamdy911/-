@@ -1,0 +1,11 @@
+{
+  "name": "memory-match-phaser",
+  "version": "1.0.0",
+  "description": "لعبة الذاكرة بسيطة مبنية بـ Phaser 3",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx http-server -p 8000"
+  },
+  "author": "EslamHamdy911",
+  "license": "MIT"
+}
